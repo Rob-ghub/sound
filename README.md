@@ -55,12 +55,12 @@
 </head>
 <body>
     <header>
-        <h1>John Doe - Freelance Designer</h1>
+        <h1>Rob Piller</h1>
     </header>
     <div class="container">
         <section>
             <h2>About Me</h2>
-            <p>Hi, I'm John Doe, a passionate freelance designer with expertise in branding, web design, and digital media.</p>
+            <p>A friendly, approachable freelance sound recordist and supervisor with 10 years experience in the industry</p>
         </section>
         <section>
             <h2>Credits & Projects</h2>
